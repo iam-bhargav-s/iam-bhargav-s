@@ -1,11 +1,10 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <h2 align="left">About me</h2>
 </div>
 
 ###
-<h2 align="left">About me</h2>
 
-###
 I’m an AIML student with strong interest in machine learning, deep learning, and software development. I work with Python, TensorFlow, PyTorch, and core ML workflows like preprocessing, model building, and evaluation. I also have solid fundamentals in Java, OOP, problem-solving.I enjoy building projects, experimenting with models, and improving my understanding of algorithms and system behavior.I also have a strong interest in blockchain development in solana.
 
 <h2 align="left">I code with</h2>
