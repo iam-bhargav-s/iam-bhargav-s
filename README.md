@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">My name is bhargav ,from bangalore</p>
+<p align="left">My name is bhargav/p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-I’m an AIML student with strong interest in machine learning, deep learning, and software development. I work with Python, TensorFlow, PyTorch, and core ML workflows like preprocessing, model building, and evaluation. I also have solid fundamentals in Java, OOP, problem-solving.I enjoy building small projects, experimenting with models, and improving my understanding of algorithms and system behavior. I use Git/GitHub for version control and follow developer-friendly workflows.
+I’m an AIML student with strong interest in machine learning, deep learning, and software development. I work with Python, TensorFlow, PyTorch, and core ML workflows like preprocessing, model building, and evaluation. I also have solid fundamentals in Java, OOP, problem-solving.I enjoy building projects, experimenting with models, and improving my understanding of algorithms and system behavior.I also have a strong interest in blockchain development in solana.
 
 <h2 align="left">I code with</h2>
 
